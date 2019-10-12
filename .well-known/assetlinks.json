@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.sabiqa.cv.base",
-    "sha256_cert_fingerprints":
-    ["EE:B7:47:78:B5:4C:32:00:97:BF:9A:DA:4B:3F:64:65:D0:47:10:AB:6A:34:B9:72:45:3C:B7:53:22:7E:63:D7"]
-  }
-}]
